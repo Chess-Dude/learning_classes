@@ -1,4 +1,4 @@
-class book:
+class Book:
     def __init__(self, pages, theme, book_type):
         """
         """
